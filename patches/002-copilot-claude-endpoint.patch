@@ -24,7 +24,7 @@ diff --git a/internal/runtime/executor/github_copilot_executor.go b/internal/run
  	// Copilot API header values.
 +	copilotThinkingBeta  = "interleaved-thinking-2025-05-14,context-management-2025-06-27"
  	copilotUserAgent     = "GithubCopilot/1.0"
- 	copilotEditorVersion = "vscode/1.109.0-20260124"
+ 	copilotEditorVersion = "vscode/1.109.3"
  	copilotPluginVersion = "copilot-chat/0.37.2026013101"
  	copilotIntegrationID = "vscode-chat"
  	copilotOpenAIIntent  = "conversation-edits"
